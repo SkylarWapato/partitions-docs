@@ -48,7 +48,7 @@
 
 - Getting started
 
-  - [Introduction](README.md)
+  - [Introduction](intro.md)
   - [Quick start](quickstart.md)
   <!-- - [Cover page](cover.md) -->
 - Schema

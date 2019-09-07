@@ -46,6 +46,8 @@ Deploy Partitions.
 npm run deploy
 ```
 
+You will find your api endpoint in the output of the above command.  Paste that endpoint in the ```graphqlEndpoint``` string in the ```seed.js``` file.
+
 Seed sample data.  This might take a few minutes.  There are nearly 7000 stores being seeded.  Also, if a request should fail, visit the ```seed.js``` file.  There will be instructions on how to pick up where you left off.
 
 ```bash
