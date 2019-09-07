@@ -58,7 +58,7 @@
   <!-- - [Cover page](cover.md) -->
 - Examples
 
-  - [Starbuck Store Location](examples/starbucks.md)
+  - [Starbuck Store Location](example-starbucks.md)
 
 <!-- - Customization
 
