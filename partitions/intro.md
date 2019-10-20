@@ -20,7 +20,7 @@ all of their access patterns.
 I never much liked the terms denormalized or normalized for NoSQL.  Far more intriguing than whether or not the data is uniform,
 are the partitions that NoSQL maintain at all times.  These partitions exist to be queried rapidly at massive scale while drawing minimal CPU usage.
 While the the table as a whole may be "denormalized", often (in a well designed schema) many of the partitions will be normalized. Therefore, it
-is important to understand **ALL*** of an application's access patterns at the outset of a project.
+is important to understand **ALL** of an application's access patterns at the outset of a project.
 
 This causes the following dilemma: 
 1. Developer wants to utitlize NoSQL for rapid queries.
